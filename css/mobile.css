@@ -1,0 +1,34 @@
+@media (max-width: 600px) {
+  .banner-item {
+    text-align: start;
+    padding-left: 35%;
+  }
+
+  #target,
+  #personal-info {
+    padding: 15px !important;
+  }
+
+  .item2 {
+    border-left: none;
+  }
+
+  .section-item-info {
+    padding-left: 16px !important;
+  }
+
+  .card-description {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .card-title {
+    font-size: 14px;
+  }
+
+  tr {
+    font-size: 12px;
+  }
+  .link-list p {
+    display: none;
+  }
+}
